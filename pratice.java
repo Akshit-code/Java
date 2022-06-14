@@ -21,6 +21,7 @@ class pratice {
       System.out.println(arr2);
       Collections.sort(arr2);
       System.out.println(arr2);
+      System.out.println(Collections.binarySearch(arr2, 2));
     
       sc.close();
     }
