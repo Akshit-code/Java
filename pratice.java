@@ -19,6 +19,8 @@ class pratice {
       System.out.println(arr2);
       arr2.addAll(2,arr1);
       System.out.println(arr2);
+      Collections.sort(arr2);
+      System.out.println(arr2);
     
       sc.close();
     }
